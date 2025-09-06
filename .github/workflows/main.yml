@@ -1,4 +1,4 @@
-name : deployment_workflow 
+name : de_workflow 
 
 on:  
   push:
